@@ -1,0 +1,60 @@
+/*
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/*
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/*
+ * @copyright (c) 2016, Philipp Thürwächter, Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/**
+	 * Basic YCbCr->RGB conversion
+	 *
+	 * @author Brooke Vibber <bvibber@pobox.com>
+	 * @copyright 2014-2024
+	 * @license MIT-style
+	 *
+	 * @param {YUVFrame} buffer - input frame buffer
+	 * @param {Uint8ClampedArray} output - array to draw RGBA into
+	 * Assumes that the output array already has alpha channel set to opaque.
+	 */
+
+/**
+   * Convert a ratio into a bit-shift count; for instance a ratio of 2
+   * becomes a bit-shift of 1, while a ratio of 1 is a bit-shift of 0.
+   *
+   * @author Brooke Vibber <bvibber@pobox.com>
+   * @copyright 2016-2024
+   * @license MIT-style
+   *
+   * @param {number} ratio - the integer ratio to convert.
+   * @returns {number} - number of bits to shift to multiply/divide by the ratio.
+   * @throws exception if given a non-power-of-two
+   */
+
+/**
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/**
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+//! @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+
+//! @copyright (c) 2015-present, Philipp Thürwächter, Pattrick Hüper & js-joda contributors
+
+//! @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+
+//! @version @js-joda/core - 3.2.0
